@@ -1,0 +1,19 @@
+
+-- 목록 보기
+> code --list-extensions
+
+dbaeumer.vscode-eslint
+formulahendry.auto-rename-tag
+formulahendry.code-runner
+manishsencha.readme-preview
+ms-ceintl.vscode-language-pack-ko
+oderwat.indent-rainbow
+pranaygp.vscode-css-peek
+ritwickdey.liveserver
+vue.volar                                            
+ms-vscode.cpptools
+
+-- 설치 
+> code --install-extension ms-vscode.cpptools
+-- 삭제 
+> code --uninstall-extension ms-vscode.cpptools
