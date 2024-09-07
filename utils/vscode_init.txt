@@ -1,6 +1,10 @@
 
--- 목록 보기
-> code --list-extensions
+-- 목록 확인
+> code --list-extensions  
+
+
+-- 확장팩 설치
+code --install-extension 
 
 code --install-extension ms-ceintl.vscode-language-pack-ko
 
@@ -16,14 +20,6 @@ code --install-extension vue.volar
 
 
 ms-vscode.cpptools
-
-code --install-extension 
-code --install-extension 
-code --install-extension 
-code --install-extension 
-code --install-extension 
-code --install-extension 
-code --install-extension 
 
 
 -- 설치 
