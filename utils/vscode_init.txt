@@ -2,16 +2,29 @@
 -- 목록 보기
 > code --list-extensions
 
-dbaeumer.vscode-eslint
-formulahendry.auto-rename-tag
-formulahendry.code-runner
-manishsencha.readme-preview
-ms-ceintl.vscode-language-pack-ko
-oderwat.indent-rainbow
-pranaygp.vscode-css-peek
-ritwickdey.liveserver
-vue.volar                                            
+code --install-extension ms-ceintl.vscode-language-pack-ko
+
+
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension formulahendry.code-runner
+code --install-extension manishsencha.readme-preview
+code --install-extension oderwat.indent-rainbow
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension ritwickdey.liveserver
+code --install-extension vue.volar                                            
+
+
 ms-vscode.cpptools
+
+code --install-extension 
+code --install-extension 
+code --install-extension 
+code --install-extension 
+code --install-extension 
+code --install-extension 
+code --install-extension 
+
 
 -- 설치 
 > code --install-extension ms-vscode.cpptools
