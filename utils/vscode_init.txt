@@ -7,8 +7,6 @@
 code --install-extension 
 
 code --install-extension ms-ceintl.vscode-language-pack-ko
-
-
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension formulahendry.auto-rename-tag
 code --install-extension formulahendry.code-runner
