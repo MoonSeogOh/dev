@@ -1,0 +1,12 @@
+
+antfu.browse-lite
+antfu.vite
+dbaeumer.vscode-eslint
+eamodio.gitlens
+esbenp.prettier-vscode
+hollowtree.vue-snippets
+ms-ceintl.vscode-language-pack-ko
+ritwickdey.liveserver
+sidthesloth.html5-boilerplate
+vue.volar
+xabikos.javascriptsnippets
