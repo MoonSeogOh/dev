@@ -26,5 +26,14 @@ ms-ceintl.vscode-language-pack-ko
 pkief.material-icon-theme
 pranaygp.vscode-css-peek
 ritwickdey.liveserver
+sdras.vue-vscode-snippets
 solnurkarim.html-to-css-autocompletion
 vue.volar
+
+
+// esbenp.prettier-vscode 
+-- prettier 설정
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
+}
